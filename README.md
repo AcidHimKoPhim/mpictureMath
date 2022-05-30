@@ -4,14 +4,14 @@ This project was implemented jointly by [AcidHimKoPhim](https://github.com/AcidH
 
 ## Requirement
 
-gradle 1.3
-compileSdkVersion 23
-minSdkVersion 16
-buildToolsVersion 23.0.2
-opencv
-java
-Android Studio (apk output Jelly Bean)
-Input image are expression (numbers from 0-9 and operators in {+,-,*,/,(,)} with white background).
+- gradle 1.3
+- compileSdkVersion 23
+- minSdkVersion 16
+- buildToolsVersion 23.0.2
+- opencv
+- java
+- Android Studio (apk output Jelly Bean)
+- Input image are expression (numbers from 0-9 and operators in {+,-,*,/,(,)} with white background).
 
 ## Install
 
